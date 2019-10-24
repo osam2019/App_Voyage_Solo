@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\8c4219ee63ea03c7346c88a81178227c4f976c5e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="de24d8023e8da79f30bee46b298f606e5e758432">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7d80d8bd9dfbc67a1cbe95d5034ad483d5238ab7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\7256b2218205eb8631e5e66dd3aaeaa71f4fe484\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ab2c6111c9e733c965725976ca2a2e57670000f9">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cad68c3527f97da04fe87f3eaade3ecec833aaed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_22368cdf4e005ae56673dc222b14a85e132ad1b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\5fcb63f95f9ce540461d1a58a0432b75200ce726\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c2a4b3334f6c33403e37cbd1abb9532f26b7601c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\6dda7dd93d50753be537b7faed50667ccffaf5bd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0c6924cbba8248329a8c58ead6a380efe7eee76e">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_78a795cee991931e9a21278a3965480a651bc37d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.8.0\5a11f020cce2d11eb71ba916700600e18c4547e7\okhttp-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.8.0_c6a16f66332eb6e0da56e6dc9a9809f7fa221a58\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\70b9f7f74c6b10c614ee9284d064da0e630c98ac\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f9aa417cd6d4373c413f6e60865133bcfdb7096b">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6853855db9b1f1aa9b337063f0dadb58d54ba6a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\da3e443770178dc7f1f66fedf41fde40d649625e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8a43729dd397e849f2a8bdc5d57a2f3170efb3ed">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ef55984d43ccc7adfd6808d305aab41c4679e690\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\46853b1b464944300dca05112259052da63abdbf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cad5ae5774f39b7017a3ae3d103e7b78506397b0">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6d70982531c6a4e13897393059317c63e4cc3f53\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.3.0\9e09011e9767bb76b5e27c9b8223476b93b14631\converter-gson-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.3.0_d87f0bb1ed10cacb40c9bb0fa052cf07fe8d0d54\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\edc9e0056c1d2c0544fd3950a3903ac8ac3e9f1c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3f0a85e6000998ac322ddd50750e8cf91601a84b">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7d603d7269240cde2e7311c8c11fef4f7cceada6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\ed67de8f6e9aeeb38cdc73d44216082390097780\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="900a290779cdb4eb2e63b6f7806fd9f30ce4f60d">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ef39a6e47e946f772bc576c32b92b746a22d26df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\8c1f1523a5b8ac920b73777724fdbdac17f0c9e0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da832806828ba407284c0c4b1d87b8f9ed9f2520">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_80989f8a648448b0f672bf35867ea11d41e447fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\2913cb83fcec7e6db3bf9cfb22a61419ae7c0ec2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="079c035b2a1820bf455e0ae7fd484dec575e2182">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0e85c841b0ebb399d54fc74fe6cc2fc77db0eb98\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\f8a5962630e5f6aa90ddabc89e7e04ddf15bf380\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="69e74a8b1cbf5b8ee0fc0cca6bab1ac6c45efef8">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a967c07e17fa30d40a06652bd255d305a52e7642\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\55d937f4cd17963718fe17a39fd7d72332031bd2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1b41f7538ea1af0aad76cb3253b87b13744788c2">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a5a24496c069e4f90a2beb2944ed0cf6487b00a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\635e76e41a4d4d94d3b8054f2f88cd6202992009\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5c1f80f62ccad560edcd6609fc75f385cf7cb45a">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e1d67f88891bfa335f376244d75dece1ec60b3b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\a3417ca6be8f7f9d3a5991be035247c9c7fd15f7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c74218547235caa9297b9b0e53ff8424d5b45fa0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\7deadb824ceaab2b8a8ebf70013d2d85b7b92d71\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="379a48c2da13ffb7ec7134f2c715663834357670">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dd612d0fad723274dcc5176890072b91e914267f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\11383f3e34eac5b7fab0ab255ad6ec4e72e402ba\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cf5f630e354827a90ffe90ce2a330495108f0595">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_eb0f71fd0b7172a3a17a467ad0a1722a94aa1579\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\7ae9938f2febd3a0c9871f99d20bcef2bb4a66d2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1172091167cff5873cbcccad4c0e08ec9e3240de">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_40c0a7d68c4cf97a39a60345334366ae0a4c7c04\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\a8351b04d9c8318ab476f151a40fbcb0b849c470\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e41dcaf23660206375b3513ef062a977ed4d3500\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\6b6a5e714bb799a2a1454aff8434c581a6d3ee9d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="553e58050e91d4295a2f1d1f80ea63b41ee5bc4b">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7fb90164bb117a7553a13295877da0cfa1717e7a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\e787ff04ffdc89b63d2909451b92829af30537da\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3dbaff65d26258306561d545f88d6712ac41dd46">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8e89bdf49661eded5511cc4a7d129e81615e5b43\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\1f086308ef64ad3bffccf28b085b7e700d3c6c4f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8f83a631abfdb790591a720e0cfb5f41329831c3">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_250d8ea4ba3e0a74f6873ce9a7b66763ceeeb5d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_6ba124d70bcc735575296b0fedcbe01162df9098\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\3d3a6fa684bf2add2c88311f7f676b8976077680\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="84a9797d6c3dd732d00f0433edc17778573cea17">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2bc98c521462dfadbe7554e7d3b283b04d8cf345\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\a1c84d715a8e4b05590c2c3698c43d89c3944bda\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7b3eaf755284fb08a6d616a55fbb07dc3917d5e7">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0c01247bdc9c6ac54a72e547059160c1b5f708f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\5ff4a91c9294de36d28c1e0e05e3fff213317e9a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="aec5337725e7a3171f7f40a50d9837745693d429">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_562dd3aed451b21ed8cf55712f1b6c39255e49dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.3.0\bcacde6a8ccedcc56c127403d26b76072fe6214d\retrofit-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.3.0_fd7c90916e2de52df699a1b4272d8898c3539f54\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\com.android.support.constraint\constraint-layout-solver\1.0.2\b9cd8fc6bd15cb915735d34535db30ece0c44603\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_4cc494d98ce3f13f5f13df721fbb4cf7d93f8a88\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\73eab476d392b61af546f2c79d3eee686aedfb7b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3944deda5f8f14ebdde75cb2b6e76068f2eebd84\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\fd8af8ddf9aeb32236d42b73d2fe254a491e028d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2f2f16fde0c662116f735951b4e830afba373cc6">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d4cf3d1b6f1d1a48fbe79a9876df42ab9fae36f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\25.3.1\bf8841d29fa39e077730e7a91222c2ce269fa7c9\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_ca5efdf28144c19588bec8123d3b1858e277c295\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\e18d14033c03283c86322ca402e7e69946e2a200\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4e5223997fa6032b326167ee4586ae0b3498647">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6400863adf629831303d60268b867c2373674399\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\e9d7838934f2d686abc5433435b280df0398b822\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8a814e3de0c7fc90b7536f5779adde437b05ff2e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\1462e468193d266923e53ea928f6c8fca931a5d6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7979972576b6dbb1688052e42e5199abb54f81ba">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_013e1a1305a781ba9a298a27d3c575a627ef680e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\1e3eda5e2762daf29bf7298c81121f54e9586b88\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ec94bba6a9bbd3461d90830e0a0752a6487f5484">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_48be20b3f042d3afb8d8030044e9ac4a3c26d3b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\4392c31ac2d6e04368b8cf86402cbe1971b46646\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0c7e0d83e333a25f969bce43db78150c63e7aa0c">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ff4eaf1a92aad512e212472e2ee4de7373ef38c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\3045993b4bb7b18cccebfca495e309e8f5665a41\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b34276d1fea450411cedd49d3146b04838f9dd6e">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3d2f9994445ddc1483e8c0d117e27db99048115f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\acf9f3599a324c6216aad915310256a294ba98c8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_31dd1c7a5b6d573dc61e2e6b9de9a23eb09b1257\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\b4cd7d44d9ff54e11e9e3bc86f9d60000cf0a136\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="79100391e3b32d7323a04b7b8a9c8ad0adbae583">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_deb76c04ad380d930ca936e73aa5c50a7cdd3d26\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\17dd8ea4b8bad218d392bc0c39f1ed8fc2e5c572\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="740c4226d6bec1adaaf5fee4b9178674b695f75a">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_68c01b78d8d2237f29632b70b9c554d2d3f0c7b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\4dbb7c6b41cc3f75f4dc740816f02b0eadd19f41\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf481b2af4d8f89935baf75972976b5681533176">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_33ca7d0b4de80bfe2229cfc4a387ed33f1b257d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\3ee9ece6095b2a2bfe1e02d95d9c898d13e178df\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="215363c803a119c16058c8bc0ccd0a4ee62e7157">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e89dc0134795fc8f09746eff090bda7cdc8b1208\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\0f6f89594381290db3d98805c5eda7dba4c8f255\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9b775d7b643397da3ab57e62ae8abb74a9cc9a83">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4253c4cdf89e656a70c24f2063091ef42855e46c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\003a5efda491bade1a0ac8a78554ef83b2ed7782\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d54a722583c1b99735f62d395806fa38bf5669ae">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8ebd1aafdf9d5ec0f53bce763be5f0ec77a37d04\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\ba33829b1445ccc4fb479e9fe9ad7fc45ebc843a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="81978250f6de6ffdf2ea4632e7955613103e984c">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9f76e0a946f06a5c5d98f2d865ea50bc342cfa1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\4f7a85ac1c4a37ce29858ce2e01b206dfb4c89c2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d068a922134f5f9b9f98bfc609145e09af03c2a4">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_102103b3845d48fc1264b1bf4b4218318ae6226a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\f1bb9264eb0ff084d6db34978ff93ddf114e745e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9024225796c3f11342ef6a4a99439f2f988bafb0">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8858463cde468877f9aaab64a86e2b1e7cd4de38\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\1d13a33f1ea970c063f32c7f754483b37e6e81b7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1e57b85bb078c5244a228516d643c47e50a2ec12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\14f66f453f9d9d405f225af1b936c4762408c8df\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_141d5c862bb3c1939ab5e856b287844e6c60ca65\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\cd2e7f6b14814bbd6084c1bd5ddc8bf654f1369b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f7fe5b2f11b99f2d1c3dc26de3454d157406d480\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\6d0514565cbaf75996ca44268499e8885c1baf3a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f1968b9614bc6851e99db64e356cf60063503e5d">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e81e79f783d8146de85d7ae6329becd2ec6451f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\eb30604dcad8a221520b11837c906ddde741c647\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="577aa74e06e6b4b407ff23ac75043685ae26dcbb">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bfcec912e53832f2efd9be0cf3a526165b98b0be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\2031be177275657beb97d3c7e98368773bc16696\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a00607e7cf55392edd324bc8fa3827ded7e9859b">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_860bf9cfac70cc7d750b5099d277561fe4ed592e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\1e6c5a62965f19473925d799be81f77fb69ff580\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_13de4806dca05aab39cb4cb4a93dd0f8d30e8d08\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\1f295c4c3252da62f63ec1cd3f9eaba2538f95f6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="29bd9a40adebb952fbe97515aac9db5dfbd90d93">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_99e0828d1aa192cbcd986c75d11ccc702fb495b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\32e9729579474ac22ce4635882a2125dd1348c32\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dd057bc43f1c1e2f13566f5fe800d077b08b61b9">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a733ff89dd53b069980b177cc7db87c137fec0b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\7f367e52604eb4134374c21020617b9a8a82b61c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0a534044236cf81b002604643d23e7ca56bd1ee0">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a605190d83c8bb05f69239e076b9e75817178357\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\c879caa28c265ec37feee6c7a192c11d220d1b2b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="60a8cdd1ad9b8d22a5d44bc8e479257ced2bf075">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c50010233a80228e09df6463894b33a07514c54e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\2e80b4475231395582d713e581a557af1947253c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d56270d9c39c36365fb7bc024c4dcce85074b295\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\ff18d49228329f46e08433aac344d3f34529fd3c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2ef283f6e85ab9e84372ae5e894aeef34fe6c68c">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d7e605ed3772eb274d65f3dd05b2c2a7df3d6706\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\6399b7cf3756ceb79a64f7e287d1ede6f74439a8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ba4defc8cb4ed5b90b8ef71602722cdeebe507cd">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f8b0134d3feb99e2371060256ba105a16a85c6f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\4faa942067803a61897ed21b7343f87491184f0a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d760eba9a231b46784c3f19031efc53294e5aead\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\3ac9d4b0c6864cb049fc71745045d8e1d07ccbbd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8208c48f892bb0ac11eeba51098a452f5708aa34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\00d4d3e6a8ff973210556c5daa5cc2bde12e3c6d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9ff5114aff3bfb387577ba92a11408dcf0441c24">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9b84824fccd3d2334973a8d88894d77965d8d222\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\7e285f05ca24e1d9216a797048762ac27bc6e222\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cea6fccbfe2b9ca7701a8766710179cd41ae1974">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3114ae44b12035bf845ffc995c293f630ec96128\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.13.0_6f2a1deafd1cc997754efb7af88da75c4f6baea4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\468d6967876a56c20ba4f85d85945b6df868e358\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c4ba6d53176502b2672a5d7d25a0000d1a6e701c">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2a31d668a9677ee4ce477ecf117702bc90f9a706\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\455f3d2e74d4b27d00714e090672076f13d79546\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d79c575e1d97b0298746a4c032a0c1dc201c2f82">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_31695748556ca0236342fa4c8ff68f1fb30896fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\2def54de1199e7fb3a255188b3821bcb675192ce\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4e598497da90768611c5e7af7f8e757d20203223\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\ef041bd8ecc44733e554fea630180ffb2911bb29\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4d7184a651c5975b49928ce7c76175d491ee7a5e">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\Voyage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ca11d8f3ac7d244411f128134f047f87a7d4416f\classes.dex" />
+    </item>
+
+</items>

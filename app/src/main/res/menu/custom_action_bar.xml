@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_bar_cancel"
+        app:showAsAction="always"
+        android:orderInCategory="100"
+        android:title="CANCEL" />
+
+    <item
+        android:id="@+id/action_bar_save"
+        app:showAsAction="always"
+        android:orderInCategory="100"
+        android:title="SAVE" />
+</menu>

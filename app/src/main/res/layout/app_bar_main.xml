@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.ada.voyage.main.MainActivity">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            app:popupTheme="@style/AppTheme.PopupOverlay" />
+
+    </android.support.design.widget.AppBarLayout>
+
+    <include layout="@layout/content_main" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="679dp"
+        android:layout_marginTop="55dp">
+
+        <Button
+            android:id="@+id/reservationbt"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="500dp"
+            android:background="?attr/colorPrimary"
+            android:onClick="gotoCal"
+            android:text="도움 예약하기"
+            android:textColorHighlight="#F44336"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/helpingbt"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="190dp"
+            android:layout_marginBottom="320dp"
+            android:background="?attr/colorPrimary"
+            android:onClick="gotoList"
+            android:text="도움 목록"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/requirebt"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="370dp"
+            android:layout_marginBottom="140dp"
+            android:background="?attr/colorPrimary"
+            android:onClick="gotoSelect"
+            android:text="도움방 입장"
+            android:textSize="30sp" />
+    </RelativeLayout>
+
+</android.support.design.widget.CoordinatorLayout>

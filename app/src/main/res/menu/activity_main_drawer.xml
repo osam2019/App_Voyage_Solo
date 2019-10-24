@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_blog"
+            android:icon="@drawable/ic_menu_blog"
+            android:title="Blog" />
+        <item
+            android:id="@+id/nav_calendar"
+            android:icon="@drawable/ic_menu_calendar"
+            android:title="Calendar" />
+        <item
+            android:id="@+id/nav_currency"
+            android:icon="@drawable/ic_menu_currency"
+            android:title="Currency" />
+        <item
+            android:id="@+id/nav_map"
+            android:icon="@drawable/ic_menu_map"
+            android:title="Map" />
+
+        <item
+            android:id="@+id/nav_budget"
+            android:icon="@drawable/ic_menu_budget"
+            android:title="Budget" />
+
+        <item
+            android:id="@+id/nav_countryInfo"
+            android:icon="@drawable/ic_menu_country"
+            android:title="Country Information" />
+
+        <item
+            android:id="@+id/nav_weather"
+            android:icon="@drawable/ic_menu_weather"
+            android:title="Weather" />
+    </group>
+
+
+</menu>

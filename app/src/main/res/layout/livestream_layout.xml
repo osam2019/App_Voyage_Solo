@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:wowza="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AuthenticationActivity">
+
+    <!-- The camera preview display -->
+    <com.wowza.gocoder.sdk.api.devices.WOWZCameraView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/camera_preview"
+        wowza:scaleMode="fill"
+        wowza:defaultCamera="back"
+        wowza:frameSizePreset="frameSize1280x720"/>
+
+    <!-- The broadcast button -->
+    <Button
+        android:id="@+id/broadcast_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="30dp"
+        android:background="?attr/colorPrimary"
+        android:text="화상시작" />
+
+    <Button
+        android:id="@+id/backbt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="?attr/colorPrimary"
+        android:onClick="gotohome"
+        android:text="←"
+        android:textSize="36sp" />
+
+
+    <TextView
+        android:id="@+id/display"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="100dp"
+        android:layout_marginBottom="300dp"
+        android:textSize="24sp" />
+
+    <EditText
+        android:id="@+id/type"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="550dp"
+        android:layout_marginRight="100dp"
+        android:layout_marginBottom="120dp"
+        android:hint="입력하세요" />
+
+    <Button
+        android:id="@+id/okaybt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="330dp"
+        android:layout_marginTop="550dp"
+        android:background="?attr/colorPrimary"
+        android:text="확인" />
+
+</RelativeLayout>

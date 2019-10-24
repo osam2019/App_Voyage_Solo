@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.ada.voyage.currency.CurrencyActivity_2">
+
+    <TextView
+        android:id="@+id/tvTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:gravity="center"
+        android:text="EUR to" />
+
+    <Spinner
+        android:id="@+id/spinner3"
+        android:layout_width="112dp"
+        android:layout_height="wrap_content"
+        android:layout_toEndOf="@+id/tvTitle"
+        android:entries="@array/country_arrays"
+        android:gravity="right" />
+
+    <TextView
+        android:id="@+id/tvSubTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="[ Rate 1 : xxxx ]"
+        android:gravity="center"
+        android:layout_marginBottom="20dp"
+        />
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/tvInputNameTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="EUR: "
+            />
+        <EditText
+
+            android:id="@+id/etInput"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:inputType="number"
+            android:gravity="right"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/tvOutputNameTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="XXX:"
+            />
+        <TextView
+            android:textColor="#ec5959"
+            android:id="@+id/tvOutputRate"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:inputType="number"
+            android:gravity="right"/>
+    </LinearLayout>
+    <Button
+        android:id="@+id/btnCalculate"
+        android:layout_marginTop="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Calculate"/>
+</LinearLayout>
+
+
+
+
+    <!--<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <EditText
+                android:id="@+id/editText6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentEnd="true"
+                android:layout_marginBottom="214dp"
+                android:layout_marginEnd="24dp"
+                android:ems="5"
+                android:hint="0.0"
+                android:inputType="textPersonName" />
+
+
+            <Spinner
+                android:id="@+id/spinner3"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:layout_alignEnd="@+id/editText6"
+                android:layout_alignTop="@+id/spinner4"
+                android:layout_toEndOf="@+id/imageView4"
+                android:entries="@array/country_arrays" />
+
+            <EditText
+                android:id="@+id/editText5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@+id/imageView4"
+                android:layout_alignParentStart="true"
+                android:layout_marginStart="18dp"
+                android:ems="5"
+                android:hint="0.0"
+                android:inputType="textPersonName" />
+
+
+            <Spinner
+                android:id="@+id/spinner4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_above="@+id/editText6"
+                android:layout_alignStart="@+id/editText5"
+                android:layout_marginBottom="34dp"
+                android:layout_toStartOf="@+id/imageView4"
+                android:entries="@array/country_arrays" />
+
+            <ImageView
+                android:id="@+id/imageView4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@+id/editText6"
+                android:layout_centerHorizontal="true"
+                app:srcCompat="@drawable/ic_menu_currency"
+                android:layout_alignTop="@+id/editText6" />
+
+
+        </RelativeLayout>
+    </LinearLayout> -->

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "519965182630",
+    "firebase_url": "https://voyage-9903f.firebaseio.com",
+    "project_id": "voyage-9903f",
+    "storage_bucket": "voyage-9903f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519965182630:android:607c4874e79ad3c0",
+        "android_client_info": {
+          "package_name": "com.example.ada.voyage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519965182630-nfhdsgs7mh87d8r8hnm3prgas1s7b0db.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ada.voyage",
+            "certificate_hash": "d43ef7e2b51521e54c2f9480d42a28f152f9a495"
+          }
+        },
+        {
+          "client_id": "519965182630-r43ln3g7lflqa6sv5qmqk5l4mf8drf11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-EgK723Wob40zh4pUS3CXtkarthETwiU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519965182630-r43ln3g7lflqa6sv5qmqk5l4mf8drf11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
